@@ -27,4 +27,4 @@
 	url = https://github.com/keyboardio/Kaleidoscope-HIDAdaptor-KeyboardioHID
 [submodule "avr/libraries/Kaleidoscope-Hardware-Virtual"]
 	path = avr/libraries/Kaleidoscope-Hardware-Virtual
-	url = https://github.com/keyboardio/Kaleidoscope-Hardware-Virtual
+	url = https://github.com/TimNN/Kaleidoscope-Hardware-Virtual
